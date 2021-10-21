@@ -1,0 +1,1 @@
+![Polychoric correlation network](plots/g0a.png)
