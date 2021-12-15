@@ -103,5 +103,5 @@ bootstraps <- bootnet(net_0,
 
 ## Parameter estimates
 ![Coefficients estimated in the original sample](plots/readme/plt_coeff.png)
-![Bootsrapped confidence intervals for all network edges](plots/readme/plt_boot1.png)
-![Boostrapped confidence intervals for edges whose confidence intervals incluide .15, -15, are above .15 or bellow -.15.](plots/readme/plt_boot2.png)
+![Bootsrapped confidence intervals for all network edges](plots/readme/plt_boot_1.png)
+![Boostrapped confidence intervals for edges whose confidence intervals incluide .15, -15, are above .15 or bellow -.15.](plots/readme/plt_boot_2.png)
